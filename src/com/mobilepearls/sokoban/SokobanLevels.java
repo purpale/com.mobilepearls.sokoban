@@ -9,7 +9,7 @@ public class SokobanLevels {
 		// level: Original
 		levelMaps.add(new String[][] {
 				{
-					"'''###'''''"
+					"###########"
 					,
 					"''## #'####"
 					,
