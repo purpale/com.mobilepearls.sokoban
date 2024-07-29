@@ -4,14 +4,7 @@ A version of the classical Sokoban game (http://en.wikipedia.org/wiki/Sokoban)
 for Android.
 
 This program is free software; you can redistribute it and/or modify it under
-the terms of the GPL (http://www.gnu.org/licenses/gpl-2.0.html). It uses images
-and level data from the game ksokoban:
-
-------------------------------------------------------------------------
-ksokoban 0.3.0 - a Sokoban game for KDE
-Copyright 1998-1999 Anders Widell <awl@hem.passagen.se>
-
-The levels were taken from:
+the terms of the GPL (http:
 
 xsokoban 3.3c for X-windows
 	www:	http://xsokoban.lcs.mit.edu/xsokoban.html
